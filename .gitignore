@@ -1,0 +1,110 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+
+
+
+
+/wrapper
+/gradle
+/caches
+/daemon
+
+
+
+
+# Built application files
+*.apk
+*.ap_
+*.dex
+*.class
+*.out
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (e.g., ProGuard)
+proguard-rules.pro
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
+
+# Android Studio
+.idea/
+
+# User-specific files
+.gradle/
+local.properties
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.hprof
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Android Studio metadata folder
+.metadata/
+
+# Android Studio IDE workspace files
+*.iws
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Google Services (e.g., google-services.json)
+google-services.json
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+
+# CMake
+CMakeLists.txt
+CMakeSettings.json
+
+# NDK
+CMakeOut/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Android
+captures/
+
+
+
+
+.externalNativeBuild
+.cxx
+local.properties
