@@ -20,7 +20,7 @@ We welcome contributions from the community to make this app even better. If you
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact our team at [your-email@example.com].
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact our team at [alexdedenko@gmail.com].
 
 Thank you for your interest in the European Football Scout App, and we hope you enjoy using it as much as we enjoy developing it!
 
