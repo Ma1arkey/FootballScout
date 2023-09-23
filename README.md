@@ -1,8 +1,7 @@
 # FootballScout+
 
 Welcome to FootballScout+, an android football app for scouting European football clubs and players. 
-This app is powered by the [Football-Data.org API](https://www.football-data.org/), providing you with up-to-date information on European football leagues. Currently, the focus is on the English Premier League, with plans to expand to other leagues such as Serie A (Italy), La Liga (Spain), Bundesliga (Germany), and Ligue1 (France) in the future. Additionally, I am currently working on enhancing the bottom navigation experience.
-
+This app is powered by the [Football-Data.org API](https://www.football-data.org/), providing you with up-to-date information on European football leagues. Currently, the focus is on the English Premier League, with plans to expand to other leagues such as Serie A (Italy), La Liga (Spain), Bundesliga (Germany), and Ligue1 (France) in the future. 
 ## Getting Started
 
 To get started with the FootballScout+ , follow these simple instructions:
@@ -17,7 +16,10 @@ To get started with the FootballScout+ , follow these simple instructions:
 
 ## Contributing
 
-I appreciate your understanding as I've been juggling work and studies while developing this project. Given the time constraints, there might be some bugs or areas that need improvement. Your valuable suggestions and feedback are especially welcomed as they can help me enhance this project further. Please don't hesitate to reach out with your ideas for improvement or if you encounter any issues. Your support is highly appreciated!
+I appreciate your understanding as I've been juggling work and studies while developing this project. 
+Given the time constraints, there might be some bugs or areas that need improvement. 
+I am currently working on enhancing the bottom navigation experience.
+Your valuable suggestions and feedback are especially welcomed as they can help me enhance this project further. Please don't hesitate to reach out with your ideas for improvement or if you encounter any issues. Your support is highly appreciated!
 
 ## Contact Me
 
