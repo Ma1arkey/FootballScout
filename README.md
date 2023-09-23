@@ -1,7 +1,11 @@
 # FootballScout+
 
+![English Premier League](skysports-premier-league-promo_5897092.png)
+
+
 Welcome to FootballScout+, an android football app for scouting European football clubs and players. 
 This app is powered by the [Football-Data.org API](https://www.football-data.org/), providing you with up-to-date information on European football leagues. Currently, the focus is on the English Premier League, with plans to expand to other leagues such as Serie A (Italy), La Liga (Spain), Bundesliga (Germany), and Ligue1 (France) in the future. 
+
 ## Getting Started
 
 To get started with the FootballScout+ , follow these simple instructions:
