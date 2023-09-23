@@ -1,10 +1,10 @@
 # FootballScout+
 
-Welcome to the European Football Scout App, your go-to platform for scouting European football clubs and players. This project is a work in progress, and we are dedicated to continually improving and expanding its features. Currently, we focus on providing information about clubs and players in the Premier League, with plans to add more leagues such as Serie A, La Liga, Bundesliga, and Ligue 1 in the future. Additionally, we are actively working on enhancing the navigation experience for our users.
+Welcome to the FootballScout+ , your go-to platform for scouting European football clubs and players. This project is a work in progress, and we are dedicated to continually improving and expanding its features. Currently, we focus on providing information about clubs and players in the Premier League, with plans to add more leagues such as Serie A, La Liga, Bundesliga, and Ligue 1 in the future. Additionally, we are actively working on enhancing the navigation experience for our users.
 
 ## Getting Started
 
-To get started with the European Football Scout App, follow these simple instructions:
+To get started with the FootballScout+, follow these simple instructions:
 
 1. **Clone the Project**: Clone this repository from GitHub to your local machine using your preferred Git client.
 
@@ -20,9 +20,8 @@ We welcome contributions from the community to make this app even better. If you
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact our team at [alexdedenko@gmail.com].
+If you have any questions, suggestions, or feedback, don't hesitate to reach out. You can contact our team at [alexdedenko@gmail.com].
 
-Thank you for your interest in the European Football Scout App, and we hope you enjoy using it as much as we enjoy developing it!
+Thank you for your interest in the FootballScout+ ,
 
-*Alex Dedenko*  
 *FootballScout+*
