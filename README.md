@@ -15,7 +15,8 @@ To get started with the FootballScout+ , follow these simple instructions:
 
 4. **Build the Project**: After the project is loaded, navigate to `Build -> Rebuild Project` in Android Studio. This step is essential to download all the required Gradle and module files.
 
-Contributing
+##Contributing
+
 I appreciate your understanding as I've been juggling work and studies while developing this project. Given the time constraints, there might be some bugs or areas that need improvement. Your valuable suggestions and feedback are especially welcomed as they can help me enhance this project further. Please don't hesitate to reach out with your ideas for improvement or if you encounter any issues. Your support is highly appreciated!
 
 ## Contact Me
